@@ -26,3 +26,5 @@ This is the repo for particle labeling.
 
 9. When done labeling, click "Export" and choose "JSON". Commit the .json files to this repo. Thanks.
 
+(.json files are not fully uploaded)
+
