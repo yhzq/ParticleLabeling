@@ -24,5 +24,5 @@ This is the repo for particle labeling.
 
 8. When finishing one image, save and click "Next" in the tool bar on the left of screen.
 
-9. When done labeling, click "Export" and choose "JSON". Commit the .json files to the repo. Thanks.
+9. When done labeling, click "Export" and choose "JSON". Commit the .json files to this repo. Thanks.
 
