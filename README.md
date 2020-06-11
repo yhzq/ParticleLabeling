@@ -6,7 +6,7 @@ This is the repo for particle labeling.
 
 1. Please download "[Colabeler](colabeler.com)" at the website and install.
 
-2. Download the image and its ".json" file from "/ToBeLabeled".
+2. Download the image and its ".json" file from "ToBeLabeled/".
 
 3. Download "tool.py" and put it in the ".json" folder. Run it and change ".json" file to the current path.
 
@@ -25,6 +25,4 @@ This is the repo for particle labeling.
 8. When finishing one image, save and click "Next" in the tool bar on the left of screen.
 
 9. When done labeling, click "Export" and choose "JSON". Commit the .json files to this repo. Thanks.
-
-(.json files are not fully uploaded)
 
