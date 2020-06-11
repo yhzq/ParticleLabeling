@@ -4,7 +4,7 @@ This is the repo for particle labeling.
 
 ### Guide
 
-1. Please download "[Colabeler](colabeler.com)" at the website and install.
+1. Please download "[Colabeler](http://www.colabeler.com)" at the website and install.
 
 2. Download the image and its ".json" file from "ToBeLabeled/".
 
